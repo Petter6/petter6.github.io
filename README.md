@@ -1,3 +1,3 @@
 # Projectpagina Petter
 Naam: Petter Reijalt \
-E-mailadres: pjwreijalt@tudelft.nl \
+E-mailadres: pjwreijalt@tudelft.nl 
