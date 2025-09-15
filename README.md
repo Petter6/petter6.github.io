@@ -1,1 +1,3 @@
-# petter6.github.io
+# Projectpagina Petter
+Naam: Petter Reijalt
+E-mailadres: pjwreijalt@tudelft.nl
