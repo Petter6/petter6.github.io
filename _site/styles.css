@@ -1,0 +1,66 @@
+body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 0 1.25em;
+        text-align: center;
+        font-family: "Times", "sans-serif", monospace;
+      }
+
+h2 {
+margin-bottom: 0.5em;
+}
+p {
+margin: 0.2em 0;
+}
+a {
+color: inherit;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+
+.about {
+text-align: left;
+max-width: 480px;
+width: 100%;
+box-sizing: border-box;
+margin-top: 1.5em;
+line-height: 1.6;
+}
+
+.pub {
+  margin-top: 1em;
+  line-height: 1.3;
+}
+.pub-title {
+  margin-bottom: 0.15em;
+}
+
+.flags {
+margin-top: 40px;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+.flags a {
+  display: flex; /* removes inline baseline gap under the image */
+  line-height: 0;
+}
+.flag {
+  display: block;
+  height: 12px;   /* pick whatever size you want, width auto-scales */
+  width: auto;
+}
+
+.pub-links a {
+  color: #0645ad; /* or royalblue / -webkit-link */
+  text-decoration: none;
+}
+.pub-links a:hover {
+  text-decoration: underline;
+}
